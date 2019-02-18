@@ -1,62 +1,55 @@
-## Privacy Policy
+**Privacy policy**
 
-Ideas On Design built the CG Futures Gallery app as a Free app. This SERVICE is provided by Ideas On Design at no cost and is intended for use as is.
+Thank you for visiting CG Futures APP. CG Futures is owned and operated by the Design Foundation Ltd., a not-for-profit organisation located in Melbourne, Victoria, Australia. We respect and protect the privacy of our users. This privacy policy tells you how we collect and use information.
 
-This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
+The term &quot;Personal Information&quot; in this privacy policy means any information from which your identity is apparent or can be reasonably ascertained. We do not collect Personal Information about you when you visit this online service.
 
-If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
+You can use this service without telling us who you are or revealing other Personal Information. If you send us a contact or feedback form you do not need to identify yourself or use your real name.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at CG Futures Gallery unless otherwise defined in this Privacy Policy.
+**Scope**
 
-**Information Collection and Use**
+The purpose of this APP is to allow you to interact with our Community Exhibition and find out more about the artists who are exhibiting in the exhibition. The APP uses your camera to scan the individual artworks in the Community Exhibition. The App will display profile information about the artist that the artist has uploaded to our secure database themselves and agreed to have their information displayed in the APP for uses to view.  This information includes artwork images, portrait pictures of themselves and short biographical information.ß
 
-For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to Camera data. The information that we request will be retained by us and used as described in this privacy policy.
+Personal information
 
-The app does use third party services that may collect information used to identify you.
+If you contact us we will collect the email address you nominate and any other identifying information you provide, such as a name or phone number.
 
-Link to privacy policy of third party service providers used by the app
+Please do not give us other personal or sensitive information.
 
-*   [Google Play Services](https://www.google.com/policies/privacy/)
+Other than circumstances such as unlawful activity or serious threats to health and safety, we do not share Personal Information with others. You may opt out of further contact from us at any time.
 
-**Log Data**
+How we deal with complaints and requests
 
-We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
+You may request access to Personal Information about you that we hold and you may ask us to correct your Personal Information if you find that it is not accurate, up-to-date or complete. You may also make a complaint about our handling of your Personal Information. These services are free of charge.
 
-**Cookies**
+To protect your privacy and the privacy of others, we will need evidence of your identity before we can grant you access to information about you or change it.
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+You can contact us by email, or send your request or complaint to the postal address below. We undertake to respond within 30 days. If the request or complaint will take longer to resolve, we will provide you with a date by which we expect to respond.
 
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+How we protect your Personal Information
 
-**Service Providers**
+This online service is hosted in Australia. To help protect the privacy of data and personal information we collect and hold, we maintain physical, technical and administrative safeguards. We update and test our security technology on an ongoing basis.
 
-We may employ third-party companies and individuals due to the following reasons:
+We train our employees about the importance of confidentiality and maintaining the privacy and security of your information. Access to your Personal Information is restricted to employees who need it to provide benefits or services to you.
 
-*   To facilitate our Service;
-*   To provide the Service on our behalf;
-*   To perform Service-related services; or
-*   To assist us in analyzing how our Service is used.
+Website analytics
 
-We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+To improve your experience on our site, we may use &#39;cookies&#39;. Cookies are an industry standard and most major web sites use them. A cookie is a small text file that our site may place on your computer as a tool to remember your preferences. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website.
 
-**Security**
+If you link with our website through this APP, our website may contain links to other websites. Please be aware that we are not responsible for the privacy practices of such other sites. When you go to other websites from here, we advise you to be aware and read their privacy policy.
 
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+Our website uses Google Analytics, a service which transmits website traffic data to Google servers in the United States. Google Analytics does not identify individual users or associate your IP address with any other data held by Google. We use reports provided by Google Analytics to help us understand website traffic and webpage usage.
 
-**Links to Other Sites**
+By using this website, you consent to the processing of data about you by Google in the manner described in Google&#39;s Privacy Policy - external site and for the purposes set out above. You can opt out of Google Analytics if you disable or refuse the cookie, disable JavaScript, or use the opt-out service provided by Google - external site.
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+CGFUTURES.com also uses interfaces with social media sites such as Facebook, LinkedIn, Twitter and others. If you choose to &quot;like&quot; or &quot;share&quot; information from this website through these services, you should review the privacy policy of that service. If you are a member of a social media site, the interfaces may allow the social media site to connect your visits to this site with other Personal Information
 
-**Children’s Privacy**
+Our obligations
 
-These Services do not address anyone under the age of 13\. We do not knowingly collect personally identifiable information from children under 13\. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
+Our services are bound by the provisions of the Privacy Act 1988 (Cth) - external site, including the Australian Privacy Principles - external site.
 
-**Changes to This Privacy Policy**
+**Contact us**
 
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+Design Foundation
 
-**Contact Us**
-
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
-
-This privacy policy page was created at [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.firebaseapp.com/)
+contact@ideasondesign.net
