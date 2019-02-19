@@ -1,4 +1,4 @@
-#h1 CG Futures Community Exhibition Support
+**CG Futures Community Exhibition Support**
 
 The CG Futures Community Exhibition is a display of artworks brought in by attendees of CG Futures 2019. It is supported by an app available of both iOS and Android. In order for an artwork to be successfully augmented, it must first be submitted on our website at: http://cgfutures.com/join-our-community/
 
